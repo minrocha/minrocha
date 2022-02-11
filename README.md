@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋, seja bem vind@</h1>
 <h3 align="center">Maycon Rocha <br> Desenvolvedor em Construção!</h3>
+<h4 aling="center">Técnico em Eletroeletrônica há alguns anos, porém, pequeno padawan como desenvolvedor, avançando e consumindo novos conhecimentos a cada dia. <br>Dá uma oportunidade aí, nunca te pedi nada....</h4>
+
+<h6 aling="center">Ps.: Podia ter escrito tudo em inglês, mas ai iria ficar igual a todo mundo rsrsrs.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minrocha&label=Profile%20views&color=0e75b6&style=flat" alt="minrocha" /> </p>
 
