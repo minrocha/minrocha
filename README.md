@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minrocha" alt="minrocha" /></a> </p>
 
-- 🔭 Atualmente me encontro a disposição **do mercado de trabalho.**
+- 🔭 Analista De Tecnologia em TV Atalaia.**
 
 - 🌱 Aprendendo sobre **HTML, CSS, Javascript.**
 
