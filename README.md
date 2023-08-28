@@ -1,30 +1,81 @@
-<h1 align="center">Hi 👋, I'm Maycon Rocha</h1>
-<h3 align="center">Desenvolvedor BackEnd no Brasil</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=minrocha&label=Profile%20views&color=0e75b6&style=flat" alt="minrocha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=minrocha" alt="minrocha" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devrocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devrocha" height="30" width="40" /></a>
-<a href="https://instagram.com/_mayconrocha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mayconrocha_" height="30" width="40" /></a>
-<a href="https://discord.gg/_.rocha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_.rocha" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minrocha&show_icons=true&locale=en&layout=compact" alt="minrocha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minrocha&show_icons=true&locale=en" alt="minrocha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minrocha&show_icons=true&locale=en" alt="minrocha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minrocha&" alt="minrocha" /></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
 
-<!---
-minrocha/minrocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=OLÁ+ME+CHAMO+MAYCON+ROCHA+TENHO+29+ANOS;E+SOU+DESENVOLVEDOR+BACKEND!:%29)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/devmayconrocha/) 
+  
+  <img  width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+</div>
+
+<br><br>
+
+<div>
+  <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+</div>
+
+<br>
+
+```
+class PROGRAMMER {
+    constructor() {
+        this.name = 'Maycon Rocha';
+        this.title = 'Backend Programmer';
+        this.stacks = ['javascript', 'java', 'typescript', 'Node.js', 'SQL', 'express', 'git', 'github'];
+        this.education = [
+            "Analysis and Systems Development",
+            { course: "Electronics Technician", institution: "Senai" },
+            { course: "Web Developer", institution: "Gama Academy" },
+            { course: "Backend Software Developer", institution: "Cubos Academy" },
+            { course: "Santander Bootcamp - Backend Java", institution: "DIO" },
+            { course: "Analysis and Systems Development", institution: "UniFatecie" }
+        ];
+        this.experiences = [
+            { position: "electronics radio and tv technician assistant", company: "tv sergipe" },
+            { position: "electronics instructor", company: "senai" },
+            { position: "electronics maintenance technician", company: "tv atalaia" },
+            { position: "technology analyst", company: "tv atalaia" }
+        ];
+    }
+}
+
+// Creating an instance of the PROGRAMMER class
+const programmerMaycon = new PROGRAMMER();
+
+// Accessing the attributes of the programmer
+console.log(`Name: ${programmerMaycon.name}`);
+console.log(`Title: ${programmerMaycon.title}`);
+console.log(`Stacks: ${programmerMaycon.stacks.join(', ')}`);
+console.log(`Education:`);
+programmerMaycon.education.forEach(education => {
+    if (typeof education === 'string') {
+        console.log(`- ${education}`);
+    } else {
+        console.log(`- Course: ${education.course}, Institution: ${education.institution}`);
+    }
+});
+console.log(`Experiences:`);
+programmerMaycon.experiences.forEach(experience => {
+    console.log(`- Position: ${experience.position}, Company: ${experience.company}`);
+});
+
+```
+
+<br><br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=minrocha&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Maycon Rocha github stats" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minrocha&layout=compact&hide_border=true&title_color=4B0082&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{minrocha}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>****
