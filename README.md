@@ -69,6 +69,10 @@ programmerMaycon.experiences.forEach(experience => {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=minrocha&show_icons=true&count_private=true&hide_border=true&title_color=c9d1d9&icon_color=4B0082&text_color=c9d1d9&bg_color=0d1117" alt="Maycon Rocha github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minrocha&layout=compact&hide_border=true&title_color=4B0082&text_color=c9d1d9&bg_color=0d1117" />
+
+  <br><br>
+
+  [![image](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minrocha&theme=nord_dark)](https://github.com/LuanCLF)
 </div>
 
 <br><br>
